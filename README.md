@@ -1,2 +1,3 @@
-# vulnclaw
-VulnClaw Desktop — web application vulnerability assessment tool by DecomLabs.
+# Starcya
+
+Starcya Desktop — a point-and-click web application security toolkit by DecomLabs.
